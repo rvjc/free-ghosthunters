@@ -1,8 +1,16 @@
 # GhostHunters
 
-Many young programmers get their first introduction to Python via the PythonTurtle shell, starting with simple interactive commands before progressing to fully-fledged programs. Of course, games will feature prominently in early programming attempts. Not only are they creative and entertaining, but they are a fertile testing ground for exploring new programming concepts. GhostHunters is very much in this mould.  Based around Turtle Graphics, it is never going to win in the speed stakes. Yet, for all of that, it is a surprisingly addictive game. It was co-developed with my youngest son over a memorable weekend in 2012.
+Many young programmers are introduced to Python via the PythonTurtle shell, starting with simple interactive commands before progressing to fully-fledged programs. Of course, games will feature prominently in early programming attempts. Not only are they creative and entertaining, but they are a fertile testing ground for honing your skills and exploring new programming concepts. GhostHunters is very much in this mould. Based around Turtle Graphics (which comes as standard with Python), this game is intentionally procedural and is never going to dazzle in the speed stakes. Yet, for all of that, it is surprisingly addictive. I co-wrote this over a memorable weekend in 2012 with my youngest son who was nine at the time.
 
-# Requirements
+## Challenge
+
+1. Rewrite this game for a modern game framework
+2. Employ object-oriented methodologies (classes)
+3. Create nicer shapes and background
+4. Give this game the sound effects it deserves.
+5. Add new twists and subtleties to have 'em screaming for more.
+
+## Requirements
 
 Python 3.x
 
