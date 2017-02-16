@@ -35,4 +35,5 @@ Press F2 to pause/continue game or F3 to abandon hunt and cash-in.
 
 Watch your fuel readout. You turn sickly green when fuel is low!
 Beware of fuel spillage when level bonuses and top-ups overflow a full tank!
-Hitting an energised ghost (red) wipes out all your fuel and cash.
+Hitting an energised ghost (red) wipes out all your fuel and cash, which basically
+means GAME OVER.
