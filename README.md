@@ -1,8 +1,12 @@
 # GhostHunters
 
-Many young programmers get their first introduction to Python via Python Turtle, moving from simple interactive commands to fully-fledged programs. GhostHunters is a surprisingly addictive home-brew game based on Turtle Graphics. It was co-developed with my youngest son over a happy weekend in 2012 when the craic was mighty and our creative juices were flowing.
+Many young programmers get their first introduction to Python via the PythonTurtle shell, starting with simple interactive commands before progressing to fully-fledged programs. Of course, games will feature prominently in early programming attempts. Not only are they creative and entertaining, but they are a fertile testing ground for exploring new programming concepts. GhostHunters is very much in this mould.  Based around Turtle Graphics, it is never going to win in the speed stakes. Yet, for all of that, it is a surprisingly addictive game. It was co-developed with my youngest son over a memorable weekend in 2012.
 
-## Instructions 
+# Requirements
+
+Python 3.x
+
+## Instructions
 
 You are a ghost hunter in a slow inertial world where direction means everything.
 You have to maximise your net earnings before your time or fuel run out.
