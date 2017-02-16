@@ -8,7 +8,7 @@ Many young programmers are introduced to Python via the PythonTurtle shell, star
 2. Employ object-oriented methodologies (classes)
 3. Create nicer shapes and background
 4. Give this game the sound effects it deserves.
-5. Add new twists and subtleties to have 'em screaming for more.
+5. Add new twists and turns to have 'em screaming for more.
 
 ## Requirements
 
