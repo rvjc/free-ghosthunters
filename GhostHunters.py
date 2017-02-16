@@ -339,7 +339,7 @@ def DrawHelp():
     
     color("blue")
     DrawText(0,180,"GHOST HUNTERS 1.0","center")
-    DrawText(0,160,"by David and Vincent Callanan","center")
+    DrawText(0,160,"by Roger and David Callanan","center")
 
     color("grey30")
     DrawText(0,130,"INSTRUCTIONS","center")
