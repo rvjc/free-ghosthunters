@@ -4,7 +4,7 @@ Many young programmers are introduced to Python via the PythonTurtle shell, star
 
 ## Challenge
 
-1. Rewrite this game for a modern game framework
+1. Rewrite this game for a modern GUI framework
 2. Employ object-oriented methodologies (classes)
 3. Create nicer shapes and background
 4. Give this game the sound effects it deserves.
