@@ -4,8 +4,7 @@ Many young programmers are introduced to Python via the Python Turtle shell, sta
 
 ## Requirements
 
-Python 3.x (comes with Turtle as standard).
-Tested on Python 3.2 for Windows.
+Python 3.x (comes with Turtle as standard). Tested on Python 3.2 for Windows.
 
 ## Instructions
 
