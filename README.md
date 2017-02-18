@@ -8,11 +8,11 @@ Python 3.x (tested on Python 3.2 for Windows)
 
 ## Screenshots
 
-### Hunting
+### Hunting (ghosts are grey)
 
 ![](/Hunting.jpg)
 
-### Hunted
+### Hunted (ghosts are red)
 
 ![](/Hunted.jpg)
 
