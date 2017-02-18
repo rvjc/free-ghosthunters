@@ -8,15 +8,21 @@ Python 3.x (tested on Python 3.2 for Windows)
 
 ## Screenshots
 
-### Hunting (ghosts are grey)
+### Hunting
+
+Ghosts are barely visible in grey and getting smaller and more elusive at each level. Touch them to add a bounty to your earnings. But watch out! They can disappear, re-appear in an entirely different location, change direction suddenly or energise (turn red) putting you in mortal danger. Careful you don't waste fuel trying to catch or avoid them!
 
 ![](/Hunting.jpg)
 
-### Hunted (ghosts are red)
+### Hunted
+
+Ghosts turn red to indicate that they are energised. If they touch you, it's game over. If you can't avoid an energised Ghost, hit F3 to cash-in before it's too late.
 
 ![](/Hunted.jpg)
 
 ### Stats
+
+Yes, this was a lame attempt!
 
 ![](/Stats.jpg)
 
