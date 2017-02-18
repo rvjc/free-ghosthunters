@@ -46,7 +46,7 @@ Ghosts turn red to indicate that they are energised. If they touch you, it's gam
 
 ### Low Fuel
 
-When you turn sickly green, you are dangerously low on fuel. Hit the SPACE bar quickly to top up, but that eats into your earnings and don't waste fuel by overfilling.
+When you turn sickly green, you are dangerously low on fuel. Hit the SPACE bar quickly to top up, but that eats into your earnings and don't waste fuel by overfilling. Your fuel readout is visible on your "suit". 
 
 ![](/LowFuel.jpg)
 
