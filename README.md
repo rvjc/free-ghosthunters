@@ -64,4 +64,4 @@ Yes, this was a lame attempt!
 4. Give this game the sound effects it deserves.
 5. Add new twists and turns to have 'em screaming for more.
 6. Add a league table/top scores feature.
-6. Write an iPhone/Android version and become an app millionaire!
+7. Write an iPhone/Android version and become an app millionaire!
