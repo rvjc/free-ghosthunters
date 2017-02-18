@@ -40,9 +40,15 @@ Ghosts are barely visible in grey and getting smaller and more elusive at each l
 
 ### Hunted
 
-Ghosts turn red to indicate that they are energised. If they touch you, it's game over. If you can't avoid an energised Ghost, hit F3 to cash-in before it's too late.
+Ghosts turn red to indicate that they are energised. If they touch you, it's game over. If you can't avoid an energised Ghost, hit F3 to cash-in before it's too late. You can always hit F2 to pause the game momentarily to consider your options. But pauses reduce your recovery time.
 
 ![](/Hunted.jpg)
+
+### Low Fuel
+
+When you turn sickly green, you are dangerously low on fuel. Hit the SPACE bar quickly to top up, but that eats into your earnings and don't waste fuel by overfilling.
+
+![](/LowFuel.jpg)
 
 ### Stats
 
