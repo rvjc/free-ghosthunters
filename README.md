@@ -22,7 +22,7 @@ You are a ghost hunter in a slow inertial world where direction means everything
 You have to maximise your net earnings before your time or fuel run out.
 Ghosts implode at the touch but they are elusive and your movement is restricted.
 Each hit adds a bounty to your earnings, but fuel top-ups eat into your cash reserves.
-When you complete each level, you get a fuel bonus but ghosts become more deceptive.
+When you complete each level, you get a fuel bonus but ghosts get smaller and more deceptive.
 While bounties are more attractive, fuel prices rocket as global supplies run low.
 And the more you turn to give chase or avoid energised ghosts, the more fuel you use!
 
