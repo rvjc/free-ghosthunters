@@ -60,8 +60,9 @@ Yes, this was a lame attempt!
 
 1. Rewrite this game for a modern GUI framework
 2. Employ object-oriented methodologies (classes)
-3. Create nicer shapes and background
-4. Give this game the sound effects it deserves.
-5. Add new twists and turns to have 'em screaming for more.
-6. Add a league table/top scores feature.
-7. Write an iPhone/Android version and become an app millionaire!
+3. Create nicer shapes and background.
+4. Allow for multiple ghosts and more complex collisions
+5. Give this game the sound effects it deserves.
+6. Add new twists and turns to have 'em screaming for more.
+7. Add a league table/top scores feature.
+8. Write an iPhone/Android version and become an app millionaire!
